@@ -1,5 +1,6 @@
 # Preliminary-Portfolio
 A selection of my early works as a Data Analyst
+
 Building Company Dashboards
 [Sales Performance Dashboard.xlsx](https://github.com/Joys-techspace/Preliminary-Portfolio/files/10786793/Sales.Performance.Dashboard.xlsx)
 
